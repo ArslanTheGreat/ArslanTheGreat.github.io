@@ -15,3 +15,23 @@ p {
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
+
+.pgraph {
+  text-align: left;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.highlight {
+  background-color: orange;
+}
+
+.redtext {
+  color: red;
+}
+
+#linksize {
+  font-size: 40px;
+}
