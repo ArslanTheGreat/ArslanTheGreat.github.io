@@ -36,3 +36,8 @@ p {
 #linksize {
   font-size: 40px;
 }
+
+#imgs {
+  height: auto;
+  width: 100%;
+}
