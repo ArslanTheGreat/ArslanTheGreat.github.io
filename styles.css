@@ -33,11 +33,9 @@ p {
 }
 
 #imgs {
-  height: auto;
-  width: 100%;
+  align-items: center;
 }
 
 .pgraph {
   text-align: center;
-  width: 100%;
 }
