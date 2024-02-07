@@ -16,13 +16,6 @@ p {
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
-.pgraph {
-  width: 100%;position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-}
-
 .underline {
   text-decoration: underline;
 }
@@ -48,3 +41,7 @@ p {
   position: relative;
 }
 
+.pgraph {
+  text-align: center;
+  width: 100%;
+}
