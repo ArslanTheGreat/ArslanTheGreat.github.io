@@ -34,10 +34,11 @@ p {
 
 #imgs {
   align-items: center;
-  height: 1000px;
-  width: 900px;
+  height: 700px;
+  width: 600px;
 }
 
 .pgraph {
-  text-align: left;
+  text-align: center;
+  width: 600px;
 }
