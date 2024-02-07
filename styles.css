@@ -17,7 +17,7 @@ p {
 }
 
 .pgraph {
-  text-align: left;
+  text-align: auto;
   width: 100%;
 }
 
